@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hey , I'm Ahmed Zahri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Oussama+ELMESSAOUDI..&hearts;++;Full+Stack+Web+Developer,;Mobile+Developer,;Graphic/UI/UX+Designer+and..;Embedded+Systems+Enthusiast;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Ahmed+Zahri..&hearts;++;IT+Support,;IT+Systems+&+Network+Administrator;Love+to+learn+new+stuffs..<3"></a>
 
 </p>
 
@@ -20,7 +20,7 @@ I'm Ahmed ZAHRI, a passionate Technician in Digital Infrastructure – Systems &
 [![Instagram Badge](https://img.shields.io/badge/-@itsahmedzahri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/itsahmedzahri/)
 [![Mail Badge](https://img.shields.io/badge/-AhmedZahri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Zahriahmeed@gmail.com)
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![GitHub followers](https://img.shields.io/github/followers/oussamaelmessaoudi?style=social)
+![GitHub followers](https://img.shields.io/github/followers/itsahmedzahri?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=itsahmedzahri)
