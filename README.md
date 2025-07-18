@@ -21,6 +21,7 @@ I'm Ahmed ZAHRI, a passionate Technician in Digital Infrastructure – Systems &
 [![Mail Badge](https://img.shields.io/badge/-AhmedZahri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Zahriahmeed@gmail.com)
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/itsahmedzahri?style=social)
+
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=itsahmedzahri)
 <img src="https://img.shields.io/badge/Age-24-blue" />
