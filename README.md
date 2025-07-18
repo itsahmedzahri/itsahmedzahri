@@ -5,13 +5,13 @@
 </p>
 
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="hi.jpg"  width="400px" alt="hi" >
+<img title="My Avatar" align="left" src="hi.png"  width="400px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and Embedded Systems 🤖👨🏻‍💻, with a deep passion for building intuitive and impactful tech solutions. I thrive in web development (both frontend and backend), mobile development, UI/UX design, and embedded systems. From elegant interfaces to robust system architectures, I enjoy the entire development journey—from pixels to protocols. I'm always eager to learn, collaborate, and bring ideas to life through code and design. Let's build something great together!
+I'm Ahmed ZAHRI, a passionate Technician in Digital Infrastructure – Systems & Networks 🖥️🛠️, with a strong drive for solving technical challenges and improving IT environments. I specialize in system administration (Windows & Linux), network configuration, virtualization, and IT supervision solutions like Zabbix. Whether it’s managing servers, deploying OS images, configuring network switches, or setting up monitoring dashboards, I enjoy turning complex infrastructure into reliable, efficient systems. I'm always looking to learn, grow, and contribute to impactful IT projects. Let’s optimize, automate, and secure the digital world together!
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -25,8 +25,8 @@ I'm Oussama ELMESSAOUDI, Master's student specializing in Computer Science and E
 ![GitHub followers](https://img.shields.io/github/followers/oussamaelmessaoudi?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=oussamaelmessaoudi)
-<img src="https://img.shields.io/badge/Age-23-blue" />
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=itsahmedzahri)
+<img src="https://img.shields.io/badge/Age-24-blue" />
 
 
 <!-- Ligne  -->
