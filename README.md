@@ -19,6 +19,8 @@ I'm Ahmed ZAHRI, a passionate Technician in Digital Infrastructure – Systems &
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedZahri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedzahri/)
 [![Instagram Badge](https://img.shields.io/badge/-@itsahmedzahri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/itsahmedzahri/)
 [![Mail Badge](https://img.shields.io/badge/-AhmedZahri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Zahriahmeed@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/+212633030125)
+
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/itsahmedzahri?style=social)
 
