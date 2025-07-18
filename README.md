@@ -16,11 +16,9 @@ I'm Ahmed ZAHRI, a passionate Technician in Digital Infrastructure – Systems &
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Linkedin Badge](https://img.shields.io/badge/-OussamaELMESSAOUDI-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-elmessaoudi/)
-[![Instagram Badge](https://img.shields.io/badge/-@UsamaMse-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/usamamse/)
-[![Mail Badge](https://img.shields.io/badge/-OussamaELMESSAOUDI-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oussamaelmessaoudi7@gmail.com)
-[![HakerRank Badge](https://img.shields.io/badge/-MyHackerRank-2EC866?style=flat&labelColor=2EC866&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/oussamaelmessao1)
-
+[![Linkedin Badge](https://img.shields.io/badge/-AhmedZahri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmed Zahri/)
+[![Instagram Badge](https://img.shields.io/badge/-@itsahmedzahri-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/itsahmedzahri/)
+[![Mail Badge](https://img.shields.io/badge/-AhmedZahri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Zahriahmeed@gmail.com)
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/oussamaelmessaoudi?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
